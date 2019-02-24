@@ -10,3 +10,5 @@ So as a result, this task will be split into several parts.
 2. The code that generated those images including the Deep Learning NN architecture behind it can be found in the following google colaboratory online jupyter notebook. https://colab.research.google.com/drive/1Gtu1elOlxB5slLdQuzBm8-7_FEe-rj58 (Task 4)
 3. Designs for the user interface including the updating of data in the folder Design (Task 5)
 
+Here is a sneak peak into the action that lies ahead!
+![ConvLSTM2D Hand Drawn Diagram](https://drive.google.com/uc?export=download&id=1p7FL7Pwp7FmFEcP3DK7s2l2RMy9pA20k)
