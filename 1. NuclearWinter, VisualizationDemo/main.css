@@ -1,0 +1,22 @@
+html{
+    overflow: hidden;
+    height: 100%;
+}
+body{
+    overflow: auto;
+    height: 100%;
+}
+
+.container{
+    height: 100%;
+    overflow: scroll;
+    background-size: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow-x: hidden;
+}
+
+.background-images{
+    height: 13500px;
+}
