@@ -8,4 +8,5 @@ To get the most up to date tempanomaly map predictions to the users on their bro
   2. Delivers predictions stored as png's to the front end by fetching it from our database.
 - **Front end** which requests png's as the user scrolls through the website travelling through time.
 
-https://github.com/jamin-hu/Reaktor-Ennakkotehtava/raw/master/3.%20User%20Interface%20Designs/Sequence%20Diagram.jpg
+![Sequence Diagram jpg](https://github.com/jamin-hu/Reaktor-Ennakkotehtava/raw/master/3.%20User%20Interface%20Designs/Sequence%20Diagram.jpg)
+
