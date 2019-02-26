@@ -1,4 +1,4 @@
-# Visualization Demo (NuclearWinter)
+# 1. Visualization Demo (NuclearWinter)
 
 **WARNING!:** The visualization produces a flickering artifact when being used and may cause discomfort and/or seizures for those with photosensitive epilepsy. Viewer discretion is advised.
 
